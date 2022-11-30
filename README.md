@@ -15,7 +15,7 @@ E6: https://albertogonzalezllorens.github.io/UD30-JavaScript/Ejercicio6/
 
 E7: https://albertogonzalezllorens.github.io/UD30-JavaScript/Ejercicio7/
 
-E8: 
+E8: https://albertogonzalezllorens.github.io/UD30-JavaScript/Ejercicio8/
 
 E9: 
 
