@@ -8,7 +8,7 @@ if (dni<0||dni>99999999){
 }else{
     console.log(dni%23);
     if(letra == letras[dni%23]){
-        alert("Letra correcta"+letras[dni%23]);
+        alert("Letra correcta "+letras[dni%23]);
     }else{
         alert("Letra incorrecta, has introducido "+letra+" y deberia ser "+letras[dni%23]);
     }
