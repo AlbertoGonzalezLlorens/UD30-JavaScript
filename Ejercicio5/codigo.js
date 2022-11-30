@@ -7,9 +7,6 @@ if(numero1<numero2){
 if(numero2>0){
     console.log("numero2 es positivo");
 }
-if(numero2>0){
-    console.log("numero2 es positivo");
-}
 if(numero1!=0){
     console.log("numero1 es negativo o distinto de cero");
 }
