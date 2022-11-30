@@ -1,4 +1,4 @@
-var factorial = window.prompt("Introducir valor del factorial");
+var factorial = prompt("Introducir valor del factorial");
 var calculo = 1;
 
 for(i=1;i<=factorial;i++){
