@@ -2,7 +2,7 @@ function comprobarpal(texto){
     var reves;
     texto=texto.toLowerCase();
     texto=texto.replace(/ /g,'');
-    for(i=texto.length();i>=0;i--){
+    for(i=texto.length;i>=0;i--){
         reves+=texto[i-1];
     }
     console.log(texto);
